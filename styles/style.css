@@ -195,7 +195,7 @@
     color: #FFF;
     font-weight: normal;
     font-size: 20px;
-    line-height: 1.2; 
+    line-height: 1.2;
     text-decoration: none;
 }
 .lots__look-more-link {
@@ -211,7 +211,7 @@
   grid-template-columns: 1fr 1fr 1fr;
   column-gap: 1px;
   padding: 0 7px;
-  margin-top: 137px;
+  margin-top: 127px;
 }
 .about__column {
   justify-self: center;
@@ -232,7 +232,7 @@
     grid-column: 2/4;
 }
 .about__title {
-  padding: 102px 14px 105px;
+  padding: 106px 16px 105px;
   font-weight: bold;
   font-size: 40px;
   line-height: 1;
@@ -250,7 +250,7 @@
 .footer {
   display: flex;
   justify-content: space-between;
-  padding: 209px 52px 80px;
+  padding: 210px 49px 80px;
 }
 .footer__social-icon {
     width: auto;

@@ -8,7 +8,7 @@
   .navig {
     width: 100%;
   }
-.header__menu{
+.header__menu {
     display: flex;
     justify-content: space-between;
     width: 100%;
@@ -46,7 +46,7 @@
     background-image: url(../images/cover.jpg);
     background-repeat: no-repeat;
     background-size: cover;
-    padding-bottom: 46px;
+    padding-bottom: 50px;
     }
   .overlay {
     position: absolute;
@@ -71,27 +71,26 @@
   .aligned-text {
     display: block;
   }
+  .sdvig-left {
+    margin-left: 26px;
+  }
   .aligned-text_center {
     line-height: 1.37;
     text-align: center;
     padding-right: 27px;
-    
-    
   }
   .letter-spacing-extended {
   letter-spacing: 0.3em;
- }
-  .letter-spacing-extended {
-    letter-spacing: 0.2em;
-    display: inline-block;
-    margin: 0 0.3em;
-}
+  }
 .no-letter-spacing {
  letter-spacing: initial;
-}
-.aligned-text-right{
+ }
+.aligned-text-right {
     line-height: 1.07;
     text-align: right;
+}
+.sdvig-right {
+  padding-right: 25px;
 }
 .cover-description {
     position: relative;
@@ -189,18 +188,19 @@
   line-height: 1.2;
   text-decoration-line: underline;
   text-transform: uppercase;
+  padding-left: 5px;
 }
 .card__text {
     z-index: 1;
     color: #FFF;
     font-weight: normal;
-    font-size: 19px;
+    font-size: 20px;
     line-height: 1.2; 
     text-decoration: none;
 }
 .lots__look-more-link {
     display: block;
-    margin: 32px 0 0 37px;
+    margin: 32px 0 0 41px;
     font-size: 20px;
     text-decoration-line: underline;
     text-underline-position: under;

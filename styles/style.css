@@ -147,8 +147,7 @@
     font-weight: bold;
     font-size: 40px;
     line-height: 1;
-    text-transform: uppercase;
-}
+    }
 .lots__card-list {
     display: grid;
     grid-template-columns: 1fr 1fr 1fr;
@@ -264,7 +263,7 @@
 .footer {
   display: flex;
   justify-content: space-between;
-  padding: 182px 51px 56px;
+  padding: 184px 51px 60px;
 }
 .footer__social-icon {
     width: auto;

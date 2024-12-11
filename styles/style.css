@@ -268,7 +268,7 @@
 .footer {
   display: flex;
   justify-content: space-between;
-  padding: 183px 51px 85px;
+  padding: 183px 51px 75px;
 }
 .footer__social-icon {
     width: auto;

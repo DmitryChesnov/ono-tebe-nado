@@ -1,1 +1,1 @@
-https://github.com/DmitryChesnov/ono-tebe-nado
+https://github.com/DmitryChesnov/ono-tebe-nado-fd

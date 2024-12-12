@@ -54,7 +54,7 @@
   }
   .cover {
     position: relative;
-    background-position: center; 
+    background-position: center;
     width: 100%;
     background-image: url(../images/cover.jpg);
     background-repeat: no-repeat;
